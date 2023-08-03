@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MaxVolder/homeWork16.git/static/css/main.d5a4eb02.css",
+    "main.js": "/MaxVolder/homeWork16.git/static/js/main.4e40ff2a.js",
+    "static/js/787.96ab09b3.chunk.js": "/MaxVolder/homeWork16.git/static/js/787.96ab09b3.chunk.js",
+    "index.html": "/MaxVolder/homeWork16.git/index.html",
+    "main.d5a4eb02.css.map": "/MaxVolder/homeWork16.git/static/css/main.d5a4eb02.css.map",
+    "main.4e40ff2a.js.map": "/MaxVolder/homeWork16.git/static/js/main.4e40ff2a.js.map",
+    "787.96ab09b3.chunk.js.map": "/MaxVolder/homeWork16.git/static/js/787.96ab09b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a4eb02.css",
+    "static/js/main.4e40ff2a.js"
+  ]
+}
